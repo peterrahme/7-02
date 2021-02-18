@@ -4,7 +4,7 @@ let userInput = 0
 
 function comparison () {
   // get User input and convert to an integer
-  userInput = document.getElementById('input').value 
+  userInput = document.getElementById('input').value
   userInput = parseInt(userInput)
 
   // check if userInput is less then 0
